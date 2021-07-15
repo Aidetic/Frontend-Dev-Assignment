@@ -1,4 +1,4 @@
-# Data-Science-Assignment
+# FullStack-Dev-Assignment
 
 # Test Details:
   This test was created by Aidetic Software Pvt. Ltd. for Frontend Dev Hiring. Anyone can take this test.
